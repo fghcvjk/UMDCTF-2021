@@ -1,0 +1,23 @@
+
+â–ˆâ–ˆâ€  â–ˆâ–ˆâ€â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€â–ˆâ–ˆâ€     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€ 
+â–ˆâ–ˆâ€  â–ˆâ–ˆâ€â–ˆâ–ˆâ€â€â€â€â€â€â–ˆâ–ˆâ€     â–ˆâ–ˆâ€â€â€â–ˆâ–ˆ  
+â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€  â–ˆâ–ˆâ€     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€â€ 
+â–ˆâ–ˆâ€â€â€â–ˆâ–ˆâ€â–ˆâ–ˆâ€â€â€â€  â–ˆâ–ˆâ€     â–ˆâ–ˆâ€â€â€â€â€  
+â–ˆâ–ˆâ€  â–ˆâ–ˆâ€â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€â–ˆâ–ˆâ€      
+
+I've been stuck in this room for some time now. They locked me in here and told
+me the only way I can leave is if I solve their problem within five seconds. 
+I've tried so much, but my algorithm keeps going over the time. Can you help me?
+
+What I have to do is find the maximum contiguous sub-array within this array of 
+numbers. They keep telling me my algorithm isn't efficient enough! If you can 
+send me the indices of this array, I might live to see another day.
+
+Format: "sum, i, j" Example: 103, 345, 455
+
+sum = the maximum contiguous sum
+i = start index of sub-array
+j = end index of sub-array
+
+Press Enter to get the arr
+

@@ -1,0 +1,8 @@
+4r3 y0u r34dy 4 s0m3 m4th?   H3r3'5 Pr0b13m 0: 
+var0 = 0n3 m1ll10n f1v3 hundr3ed $1x7y f1v3 7h0u54nd f0ur hundr3ed f0ur7y f0ur d1v1d3d by 7hr33 m1ll10n f1v3 hundr3ed 0n3 7h0u54nd 7w0 hundr3ed n1n37y $3v3n 4nd f1v3 m1ll10n 0n3 hundr3ed 31gh7y $3v3n 7h0u54nd n1n3 hundr3ed th1r7y 7hr33
+var1 = 31gh7 m1ll10n f0ur7y 7w0 7h0u54nd 51x P1u$ 0n3 m1ll10n f1v3 hundr3ed $1x7y 7w0 7h0u54nd f1v3 hundr3ed f1fty n1n3
+var2 = 0n3 m1ll10n f1fty 31gh7 7h0u54nd 7hr33 hundr3ed n1n37y f0ur M1Nu$ 31gh7 m1ll10n th1r7y f0ur 7h0u54nd 51x hundr3ed f1v3
+var3 = 7w0 m1ll10n n1n3 hundr3ed 7w3n7y 7w0 7h0u54nd 7w3n7y 31gh7 4nd 7w0 m1ll10n 31gh7 hundr3ed f0ur7y 0n3 7h0u54nd f0ur7y 51x 71m3$ 7w0 m1ll10n 7hr33 hundr3ed $3v3n7y n1n3 7h0u54nd 31gh7 hundr3ed f1fty n1n3 m0d $3v3n m1ll10n 7hr33 hundr3ed n1n37y 31gh7 7h0u54nd f1v3 hundr3ed 7w3n7y n1n3
+var4 = 0n3 m1ll10n 7hr33 hundr3ed n1n3733n 7h0u54nd 0n3 hundr3ed f0ur7y 7w0 plu$ 7hr33 m1ll10n $3v3n7y n1n3 7h0u54nd 7hr33 hundr3ed th1r7y n1n3 P1u$ f0ur m1ll10n 7hr33 hundr3ed 7w3n7y 7h0u54nd 31gh7 hundr3ed  plu$ 51x m1ll10n 7hr33 hundr3ed f1fty 51x 7h0u54nd f1v3 hundr3ed $1x7y 7hr33 m1nu$ 7hr33 hundr3ed f0ur 7h0u54nd 0n3 hundr3ed $1x733n
+RESULT = var0 m1nu$ var1 71m3$ var2 d1v1d3d by var3 m0d var4
+What is RESULT?  

@@ -1,0 +1,44 @@
+
+â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€â–ˆâ–ˆâ€   â–ˆâ–ˆâ€ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€â–ˆâ–ˆâ€  â–ˆâ–ˆâ€
+â–ˆâ–ˆâ€â€â€â€â€â€â€â€â€â–ˆâ–ˆâ€â€â€â€â–ˆâ–ˆâ€   â–ˆâ–ˆâ€â–ˆâ–ˆâ€â€â€â€â€â€â–ˆâ–ˆâ€ â–ˆâ–ˆâ€â€
+â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€   â–ˆâ–ˆâ€   â–ˆâ–ˆâ€   â–ˆâ–ˆâ€â–ˆâ–ˆâ€     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€â€ 
+â€â€â€â€â€â–ˆâ–ˆâ€   â–ˆâ–ˆâ€   â–ˆâ–ˆâ€   â–ˆâ–ˆâ€â–ˆâ–ˆâ€     â–ˆâ–ˆâ€â€â–ˆâ–ˆâ€ 
+â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€   â–ˆâ–ˆâ€   â€â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€â€â€â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ€â–ˆâ–ˆâ€  â–ˆâ–ˆâ€
+
+Welp that didn't work. As soon as they took me out of this place, they dragged me
+to another room and told me to solve another stupid puzzle. You think you could help
+me with this one as well? This was all they gave me:
+
+"You are given a 2-dimensional array of values for an image. Find the
+brightest subregion of the image (the bigger the number, the brighter). A subregion (rectangular) can range from one pixel to the whole 
+image. You can assume the image has the same width and height."
+
+They also gave me an example for clarification:
+|-----|-----|-----|-----|-----|
+|     |     |     |     |     |
+|  6  | -5  | -7  |  4  | -4  |
+|     |     |     |     |     |
+|-----|-----|-----|-----|-----|
+|     |     |     |     |     |
+| -9  |  3  | -6  |  5  |  2  |
+|     |     |     |     |     |
+|-----|-----|-----|-----|-----|
+|     |     |     |     |     |
+| -10 |  4  |  7  | -6  |  3  |
+|     |     |     |     |     |
+|-----|-----|-----|-----|-----|
+|     |     |     |     |     |
+| -8  |  9  | -3  |  3  | -7  |
+|     |     |     |     |     |
+|-----|-----|-----|-----|-----|
+
+Format: "sum, row_start, row_end, col_start, col_end" Example: 17, 2, 3, 1, 2
+
+sum = the maximum subregion sum
+row_start = row index of top left
+row_end = row index of bottom right
+col_start = col index of top left
+col_end = col index of bottom right
+
+Press Enter to get the 2D array
+
